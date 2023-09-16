@@ -1,5 +1,7 @@
 #! /bin/sh
 
+cd ../../foreign/jazz-stream-linux
+
 GSTREAMER_LIB="/home/cartier/Devel/gstreamer/cerbero/build/dist/linux_x86_64/lib"
 GSTREAMER_INCLUDE="/home/cartier/Devel/gstreamer/cerbero/build/dist/linux_x86_64/include"
 

@@ -1,5 +1,7 @@
 #! /bin/sh
 
+cd ../../foreign/jazz-git-linux
+
 LIBGIT2=/home/cartier/Devel/system/libgit2-1.3.0
 
 if [ -d include ]; then

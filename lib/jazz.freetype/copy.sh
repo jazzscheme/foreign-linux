@@ -1,5 +1,7 @@
 #! /bin/sh
 
+cd ../../foreign/jazz-freetype-linux
+
 GSTREAMER=~/Devel/gstreamer/cerbero/build/dist/linux_x86_64
 
 
